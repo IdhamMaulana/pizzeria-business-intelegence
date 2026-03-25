@@ -11,7 +11,7 @@ Ben sedang mengembangkan bisnis pizzeria dengan model takeout & delivery. Seirin
 
 Project ini berfokus pada pembangunan data pipeline end-to-end, mulai dari database ter-normalisasi hingga dashboard analitik, dengan tiga area utama:
 
-1. 📊 Dashboard 1 : Order Activity
+📊 Dashboard 1 : Order Activity
 Berfokus pada analisis performa penjualan dan perilaku pelanggan.
 
 - Total orders
@@ -25,7 +25,7 @@ Berfokus pada analisis performa penjualan dan perilaku pelanggan.
 - Orders by location (address)
 - Orders by fulfillment type (delivery vs pickup)
      
-2. 📦 Dashboard 2 : Inventory Management
+📦 Dashboard 2 : Inventory Management
 Berfokus pada efisiensi penggunaan bahan baku dan pengendalian biaya.
 
 - Total quantity usage per ingredient
@@ -33,7 +33,7 @@ Berfokus pada efisiensi penggunaan bahan baku dan pengendalian biaya.
 - Calculated cost per pizza
 - Remaining stock per ingredient
   
-3. 👨‍🍳 Dashboard 3 : Staff Cost
+👨‍🍳 Dashboard 3 : Staff Cost
  Berfokus pada analisis produktivitas dan biaya tenaga kerja.
 
 - Total staff cost
