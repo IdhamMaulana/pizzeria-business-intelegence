@@ -74,6 +74,7 @@ Dengan adanya sistem ini, Ben dapat memantau kesehatan finansial pizzerianya sec
 
 ## 📊 Dashboard
 🔗 [View Interactive Dashboard](https://lookerstudio.google.com/reporting/7d1de712-b80c-46a6-aec2-6688fd871d65)
+
 Hasil analisis divisualisasikan dalam dashboard interaktif (Looker Studio) yang terbagi menjadi tiga fokus utama:
 
 Orders Dashboard:
