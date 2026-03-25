@@ -1,8 +1,8 @@
 # 🍕 Pizzeria Business Intelligence: SQL & Dashboard Project
 Relational Database Design, SQL Analysis, and Interactive Business Dashboard
 
-## 📓 SQL Scripts & Resources
-- [`f`](file analysis)  
+## 📓 SQL Scripts
+- [File Analysis](./file%20analysis/)
 
 Berisi seluruh kueri SQL yang digunakan untuk ekstraksi data, mulai dari kalkulasi total penjualan, manajemen stok (inventory), hingga perhitungan biaya staf.
 
