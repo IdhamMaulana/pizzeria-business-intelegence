@@ -73,6 +73,7 @@ Pendekatan yang dilakukan dalam projek ini meliputi:
 Dengan adanya sistem ini, Ben dapat memantau kesehatan finansial pizzerianya secara akurat. Pengawasan stok yang otomatis membantu mengurangi limbah makanan (food waste) dan memastikan ketersediaan bahan, sementara pemantauan biaya staf memberikan gambaran yang jelas mengenai efisiensi operasional harian.
 
 ## 📊 Dashboard
+🔗 [View Interactive Dashboard](https://lookerstudio.google.com/reporting/7d1de712-b80c-46a6-aec2-6688fd871d65)
 Hasil analisis divisualisasikan dalam dashboard interaktif (Looker Studio) yang terbagi menjadi tiga fokus utama:
 
 Orders Dashboard:
