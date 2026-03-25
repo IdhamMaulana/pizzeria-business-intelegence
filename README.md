@@ -73,14 +73,14 @@ Dengan adanya sistem ini, Ben dapat memantau kesehatan finansial pizzerianya sec
 ## 📊 Dashboard
 Hasil analisis divisualisasikan dalam dashboard interaktif (Looker Studio) yang terbagi menjadi tiga fokus utama:
 
-Orders Dashboard: Fokus pada performa penjualan dan geografi pengiriman.
+Orders Dashboard:
 <img width="1136" height="854" alt="image" src="https://github.com/user-attachments/assets/9a189be9-d19d-4698-ae31-e201aed62cba" />
 
 
-Inventory Dashboard: Fokus pada level stok dan kebutuhan reorder.
+Inventory Dashboard:
 <img width="1136" height="851" alt="image" src="https://github.com/user-attachments/assets/50d9746d-d075-4f1e-9eaf-e4ab71c73841" />
 
-Staff Dashboard: Fokus pada manajemen jadwal dan biaya tenaga kerja.
+Staff Dashboard:
 <img width="1136" height="856" alt="image" src="https://github.com/user-attachments/assets/53d00190-e64e-409e-94bd-63727753d6a7" />
 
 ## 🧰 Tools & Technologies
