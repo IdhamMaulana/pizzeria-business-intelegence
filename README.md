@@ -2,7 +2,7 @@
 Relational Database Design, SQL Analysis, and Interactive Business Dashboard
 
 ## 📓 SQL Scripts & Resources
-- [`file analysis`](File Analysis)  
+- [`f`](file analysis)  
 
 Berisi seluruh kueri SQL yang digunakan untuk ekstraksi data, mulai dari kalkulasi total penjualan, manajemen stok (inventory), hingga perhitungan biaya staf.
 
