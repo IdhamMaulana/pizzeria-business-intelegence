@@ -50,6 +50,8 @@ Project ini bertujuan untuk:
 3. Menghasilkan insight berbasis data untuk mendukung pengambilan keputusan operasional dan strategis
 
 ## 📂 Data Overview
+🔗 [Access Dataset](https://www.kaggle.com/datasets/jaspearson/pizzeria-data-for-4-weeks)
+
 Dataset simulasi mencakup sistem relasional yang terdiri dari:
 
 - Orders & Customers: Data transaksi, detail pelanggan, dan alamat pengiriman.
